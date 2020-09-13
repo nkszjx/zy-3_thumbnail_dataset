@@ -1,5 +1,5 @@
-# zy-3_thumbnail_dataset_domain_adaptation
-zy-3_dataset_domain_adaption
+# zy-3_thumbnail_cloud_cover_evaluation_dataset
+zy-3_thumbnail_cloud_cover_evaluation_dataset
 
 1. evaluation data (50):
 data: test-imgs.rar
