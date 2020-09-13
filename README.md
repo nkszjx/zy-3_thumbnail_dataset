@@ -1,4 +1,4 @@
-# zy-3_thumbnail_dataset_domain_adaption
+# zy-3_thumbnail_dataset_domain_adaptation
 zy-3_dataset_domain_adaption
 
 1. evaluation data (50):
