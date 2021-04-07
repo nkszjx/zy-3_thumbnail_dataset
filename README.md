@@ -15,4 +15,4 @@ train5-26.rar
 train6-50.rar
 train7-55.rar
 
-This dataset is used in our submited paper: Unsupervised Domain Adaptation Based on Grouped Feature Alignment and Entropy Minimization for Cloud Detection of Cross-Satellite Remote Sensing Images (IEEE TGRS)
+This dataset is used in our submited paper: Unsupervised Domain Adaptation for Cloud Detection Based on Grouped Features Alignment and Entropy Minimization (IEEE TGRS)
